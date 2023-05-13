@@ -121,6 +121,7 @@ env.bak/
 venv.bak/
 venv-Embeddings
 venv-f1
+venv-reddit
 
 # Spyder project settings
 .spyderproject
@@ -155,3 +156,9 @@ cython_debug/
 
 # pickle file for movie embeddings project
 movie_embeddings_demo.pkl
+
+# vscode workspace
+*.code-workspace
+
+# sentiment csv files
+epl_top_8.csv
