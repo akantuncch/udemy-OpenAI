@@ -162,3 +162,5 @@ movie_embeddings_demo.pkl
 
 # sentiment csv files
 epl_top_8.csv
+
+.DS_Store
