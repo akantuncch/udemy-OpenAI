@@ -164,3 +164,5 @@ movie_embeddings_demo.pkl
 epl_top_8.csv
 
 .DS_Store
+
+venv-stability
